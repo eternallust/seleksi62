@@ -1,0 +1,3 @@
+export const SEARCHDATA = 'SEARCHDATA';
+export const BUSSINESSDATA = 'BUSINESSDATA';
+export const DETAILDATA = 'DETAILDATA';
